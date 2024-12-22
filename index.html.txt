@@ -1,7 +1,0 @@
-<html>
- <body>
-  <h1>Приветсвую на моём <b>первом</b> сайте</h1>
-  <p>Я люблю мишек <img src="https://i.pinimg.com/736x/31/fc/3b/31fc3b91ddad786d180f62ca88447a50.jpg"></p>
- </body>
-</html>
-  
